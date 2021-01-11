@@ -16,6 +16,6 @@ after unresponsiveness, torture starts. here are the stuff that it does:
 4.mouse jitter
 5.random mouse scrolling
 6.beeping
-The only way to exit it to use any of the java killers or task manager
+The only way to exit it to use any of the java killers or task manager or a restart
 Good luck!!
 P.S. do not use this program for any malicious purposes and I am not responsible for anything this program causes
