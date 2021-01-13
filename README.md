@@ -17,6 +17,6 @@ after unresponsiveness, torture starts. here are the stuff that it does:
 5.random mouse scrolling
 6.beeping
 7.screen rotation
-The only way to exit it to use any of the java killers or task manager or a restart
+The only way to exit it to use any of the java killers, task manager or a restart
 Good luck!!
 P.S. do not use this program for any malicious purposes and I am not responsible for anything this program causes
