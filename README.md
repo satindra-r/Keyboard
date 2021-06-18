@@ -3,7 +3,7 @@ Well so you decided to try it out it's not going to be great but it's kinda good
 
 config.jar: minor distraction (use scroll on progress bars for animation)
 
-keyboard.bat: actual stuff
+ScreenBrr.bat: actual stuff
 
 kill.bat: stops java
 
@@ -35,7 +35,7 @@ after unresponsiveness, torture starts. here are the stuff that it does:
 
 7.screen rotation
 
-8.spiders
+8.spiders(can be killed by scrolling on them)
 
 9.explorer process killing
 
